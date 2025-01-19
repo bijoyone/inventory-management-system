@@ -1,7 +1,7 @@
 ## Inventory Management System
 
 
-### 
- Product add
- Summary 
+### Add Product
+### Summary 
+### Report Generate
 
