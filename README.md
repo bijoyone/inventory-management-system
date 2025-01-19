@@ -2,6 +2,7 @@
 
 
 ### Add Product
+### Delete Product
 ### Summary 
 ### Report Generate
 
